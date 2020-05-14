@@ -29,11 +29,11 @@ This indicated that the average math and reading grades of the 9th grade student
 
 The School Summary metrics before the NaN values were added are the following:
 
-![](pics/School_summary_Original.png)
+![](pics/School_summary_Original.pn)
 
 And, after the NaN values were added,the School Summary metrics were the following:
 
-![](pics/School_summary_with_NaNs.png)
+![](pics/School_summary_with_NaNs.pn)
 
 ### Conclusion
 
