@@ -21,7 +21,7 @@ It would appear that adding NaNs has resulted in a slightly lower values of all 
 
 ### Conclusion
 
-This indicated that the average math and reading grades of the 9th grade students at Thomas High School were slightly higher than the district averages.
+This indicates that the average math and reading grades of the 9th grade students at Thomas High School were slightly higher than the district averages.
 
 ## School Summary
 
@@ -49,7 +49,7 @@ No other schools were affected by the change.
 
 #### DataFrames
 
-Before the nullification of 9th grade scores at Thomas High School, the math and reading scores by grade were the following:
+Before the nullification of 9th grade scores at Thomas High School, the math scores by grade were the following:
 
 ![](pics/Math_Scores_By_Grade_Original.png)
 
@@ -59,23 +59,23 @@ And, after the nullification, the math scores were the following:
 
 #### Conclusion
 
-The effect of nullifying the 9th grade reading and math scores have on the math scores per grade is that the 9th grade math score for Thomas High School has been nullified as well. No other schools were affected by the change.
+The effect of nullifying the 9th grade reading and math scores has on the math scores per grade is that the 9th grade math score for Thomas High School has been nullified as well. No other schools were affected by the change.
 
 ### Reading
 
 #### DataFrames
 
-Before the nullification of 9th grade scores at Thomas High School, the math and reading scores by grade were the following:
+Before the nullification of 9th grade scores at Thomas High School, the reading scores by grade were the following:
 
 ![](pics/Reading_Scores_By_Grade_Original.png)
 
-And, after the nullification, the math scores were the following:
+And, after the nullification, the reading scores were the following:
 
 ![](pics/Reading_Scores_By_Grade_with_NaNs.png)
 
 #### Conclusion
 
-The effect of nullifying the 9th grade reading and math scores have on the math scores per grade is that the 9th grade reading score for Thomas High School has been nullified as well. No other schools were affected by the change.
+The effect of nullifying the 9th grade reading and math scores has on the reading scores per grade is that the 9th grade reading score for Thomas High School has been nullified as well. No other schools were affected by the change.
 
 ## Scores by School Spending
 
@@ -107,7 +107,7 @@ And, after the nullification of the 9th grade math and reading scores at Thomas 
 
 ### Conclusion
 
-The % Passing Math, % Passing Reading, and % Overall Passing scores for the $630-644 spending range have all dropped considerably after the nullification of the 9th grade marks at Thomas High School. This indicates that Thomas High School falls in Medium range (1000-2000 students). It can also be concluded that the math and reading scores of the grade 9 students at Thomas High School are considerably higher than the average for schools in their school size.
+The % Passing Math, % Passing Reading, and % Overall Passing scores for the medium size range (1000-2000 students) have all dropped considerably after the nullification of the 9th grade marks at Thomas High School. This indicates that Thomas High School falls in Medium school size range. It can also be concluded that the math and reading scores of the grade 9 students at Thomas High School are considerably higher than the average for schools in their school size range.
 
 ## Scores by School Type
 
@@ -123,4 +123,4 @@ And, after the nullification of the 9th grade math and reading scores at Thomas 
 
 ### Conclusion
 
-The % Passing Math, % Passing Reading, and % Overall Passing scores for the $630-644 spending range have all dropped considerably after the nullification of the 9th grade marks at Thomas High School. This indicates that Thomas High School falls in Medium range (1000-2000 students). It can also be concluded that the math and reading scores of the grade 9 students at Thomas High School are considerably higher than the average for schools in their school size.
+The % Passing Math, % Passing Reading, and % Overall Passing scores for the Charter school type have all dropped considerably after the nullification of the 9th grade marks at Thomas High School. This indicates that Thomas High School is a Charter type school. It can also be concluded that the math and reading scores of the grade 9 students at Thomas High School are considerably higher than the average for schools in their school type.
