@@ -43,6 +43,40 @@ This indicates that the Math and Reading scores of the 9th grade students at Tho
 
 No other schools were affected by the change.
 
+## High-Performing Schools
+
+The high-performing schools (top 5) before the nullification of the 9th grade score at Thomas High School are the following:
+
+**Math**
+
+**Reading**
+
+
+And, after the nullification of the score, the scores are the following:
+
+**Math**
+
+**Reading**
+
+
+## Low-Performing Schools
+
+The low-performing schools (bottom 5) before the nullification of the 9th grade score at Thomas High School are the following:
+
+**Math**
+
+**Reading**
+
+
+And, after the nullification of the score, the scores are the following:
+
+**Math**
+
+**Reading**
+
+
+
+
 ## Math and Reading Scores By Grade
 
 ### Math
