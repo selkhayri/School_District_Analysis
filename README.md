@@ -49,14 +49,25 @@ The high-performing schools (top 5) before the nullification of the 9th grade sc
 
 **Math**
 
+![](pics/High_performing_schools_Math_Original.png)
+
 **Reading**
 
+![](pics/High_performing_schools_Reading_Original.png)
 
 And, after the nullification of the score, the scores are the following:
 
 **Math**
 
+![](pics/High_performing_schools_Math_Original.png)
+
 **Reading**
+
+![](pics/High_performing_schools_Reading_Original.png)
+
+### Conclusion
+
+The math and reading top 5-ranked schools did not change as a result of the nullification of the 9th grade scores at Thomas High School.
 
 
 ## Low-Performing Schools
@@ -65,16 +76,25 @@ The low-performing schools (bottom 5) before the nullification of the 9th grade 
 
 **Math**
 
+![](pics/Low_performing_schools_Math_Original.png)
+
 **Reading**
 
+![](pics/Low_performing_schools_Reading_Original.png)
 
 And, after the nullification of the score, the scores are the following:
 
 **Math**
 
+![](pics/Low_performing_schools_Math_with_NaNs.png)
+
 **Reading**
 
+![](pics/Low_performing_schools_Reading_with_NaNs.png)
 
+### Conclusion
+
+The math and reading bottom 5-ranked schools did not change as a result of the nullification of the 9th grade scores at Thomas High School. The only difference is that the ranking Thomas High School fell, becoming the 3<sup>rd</sup> last instead of 4<sup>th</sup>.
 
 
 ## Math and Reading Scores By Grade
